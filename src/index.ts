@@ -1,4 +1,4 @@
-import { Injector, Logger, settings, common } from "replugged";
+import { Injector, Logger, common, settings } from "replugged";
 import { Guild } from "discord-types/general";
 
 const inject = new Injector();
