@@ -1,20 +1,19 @@
 {
-  "id": "dev.replugged.PluginTemplate",
-  "name": "Plugin Template",
-  "description": "A plugin template",
+  "id": "xyz.noplagi.exportGuilds",
+  "name": "Export Guilds",
+  "description": "lil support plugin to export list of conversations ",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "NoPlagiarism",
+    "discordID": "358920224008830977",
+    "github": "NoPlagiarism"
   },
-  "version": "1.0.0",
+  "version": "0.1.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/plugin-template"
+    "id": "NoPlagiarism/replugged_exportGuilds"
   },
   "license": "MIT",
   "type": "replugged-plugin",
   "renderer": "src/index.ts",
-  "source": "https://github.com/replugged-org/plugin-template",
-  "image": ["https://i.imgur.com/14CNs3a.png?CHANGE-THIS-URL"]
+  "source": "https://github.com/NoPlagiarism/replugged_exportGuilds"
 }
