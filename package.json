@@ -1,7 +1,7 @@
 {
-  "name": "plugin-template",
-  "version": "1.0.0",
-  "description": "A plugin template",
+  "name": "xyz.noplagi.exportGuilds",
+  "version": "0.1.1",
+  "description": "lil support plugin to export list of conversation",
   "engines": {
     "node": ">=18.0.0",
     "pnpm": ">=8.0.0"
@@ -20,8 +20,8 @@
     "lint:fix": "pnpm run prettier:fix && pnpm run eslint:fix"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "NoPlagiarism",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.6.1",
     "@typescript-eslint/eslint-plugin": "^6.7.0",
